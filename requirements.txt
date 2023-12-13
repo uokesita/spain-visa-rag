@@ -4,4 +4,6 @@ openai
 youtube-transcript-api
 faiss-cpu
 streamlit
+streamlit_chat
 tiktoken
+bs4
